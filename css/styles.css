@@ -1,0 +1,40 @@
+body {
+  margin: auto;
+}
+.container-fluid {
+  padding: 3% 15%;
+}
+.calc {
+  background-color: #3A3845;
+  width: 25rem;
+  text-align: center;
+  padding-top: 1.2rem;
+  padding-bottom: 1.2rem;
+  border-radius: .5rem;
+  justify-content: center;
+
+}
+
+#display {
+  width: 90%;
+  height: 5rem;
+  border-style: none;
+}
+
+.btn-design {
+  width: 4rem;
+  height: 4rem;
+  border-style: none;
+  border-radius: 100%;
+  margin: 10px;
+  background-color: #C1A3A3;
+  box-shadow: 0 5px 20px #000;
+
+}
+
+.operation {
+  background-color: #F8B400;
+}
+.integer {
+  color: white;
+}
